@@ -1,3 +1,5 @@
 # Sales_Inventory_SQL_Assignment
 This is a database of sample sales inventory data, stored in PostgreSQL.
-The SQL SCRIPT contains 1 to 50 questions of SQL queries from beginner to advanced
+This file contains an SQL Script that analyzes the data stored in a PostgreSQL database.
+The SQL queries answer key business questions and provide actionable insights into this Retail shop's Sales and Stock Inventory data.
+The SQL script answers 100 business questions.
